@@ -4,13 +4,13 @@ body {
     color: #e69292cc;
     }
     .light-mode body {
-    background-color: #e2e3e5;
-    color: hsl(180, 2%, 9%);
+    background-color: #dee1d3;
+    color: hwb(131 0% 83%);
     }
 
     .dark-mode body {
-    background-color: hsl(0, 0%, 20%);
-    color: #ebf4f1;
+    background-color: hsl(248, 95%, 8%);
+    color: #d3d7d6;
     }
     
     .gray-mode body {
