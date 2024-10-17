@@ -6,17 +6,17 @@ imagegallery:
   showgallery: true
   carouselgrid: carousel
   galleryImages:
-    - /img/img_2591-groot.jpeg
-    - /img/img_2592-groot.jpeg
-    - /img/img_2593-groot.jpeg
-    - /img/img_2594-groot.jpeg
-    - /img/img_2595-groot.jpeg
-    - /img/img_2596-groot.jpeg
-    - /img/img_2597-groot.jpeg
-    - /img/img_2598-groot.jpeg
-    - /img/img_2599-groot.jpeg
-    - /img/img_2600-groot.jpeg
-    - /img/img_2601-groot.jpeg
+    - /img/img_2591-groot-normaal.jpeg
+    - /img/img_2592-groot-normaal.jpeg
+    - /img/img_2593-groot-normaal.jpeg
+    - /img/img_2594-groot-normaal.jpeg
+    - /img/img_2595-groot-normaal.jpeg
+    - /img/img_2596-groot-normaal.jpeg
+    - /img/img_2597-groot-normaal.jpeg
+    - /img/img_2598-groot-normaal.jpeg
+    - /img/img_2599-groot-normaal.jpeg
+    - /img/img_2600-groot-normaal.jpeg
+    - /img/img_2601-groot-normaal.jpeg
 thumbnail: /img/rp-p-ob-6876-normaal.jpeg
 included: true
 numbernavigation: 100
