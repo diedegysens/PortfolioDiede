@@ -17,7 +17,7 @@ imagegallery:
     - /img/img_2599-groot.jpeg
     - /img/img_2600-groot.jpeg
     - /img/img_2601-groot.jpeg
-thumbnail: /img/rp-p-ob-6876.jpg
+thumbnail: /img/rp-p-ob-6876-normaal.jpeg
 included: true
 numbernavigation: 100
 promoted: "0"
